@@ -3,14 +3,10 @@
 <!-- Animated Header with Gradient Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Alifa%20Sulaeman&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend%20Specialist&descSize=20&descAlignY=55" />
 
-</div>
+<!-- Animated Pixel Art Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-<!-- Animated Snake eating contributions -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alifasulaeman13/Alifasulaeman13/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alifasulaeman13/Alifasulaeman13/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alifasulaeman13/Alifasulaeman13/output/github-contribution-grid-snake.svg">
-</picture>
+</div>
 
 <div align="center">
 
